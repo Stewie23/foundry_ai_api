@@ -6,7 +6,8 @@
   "authors": [
     {
       "name": "Stewie23",
-      "url": "https://github.com/Stewie23/foundry_ai_api"
+      "url": "https://github.com/Stewie23/foundry_ai_api",
+      "download":"https://github.com/Stewie23/foundry_ai_api/foundry_ai_api.zip"
     }
   ],
   "esmodules": ["main.js"],
