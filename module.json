@@ -5,8 +5,8 @@
   "version": "1.0.0",
   "authors": [
     {
-      "name": "Your Name",
-      "url": "https://github.com/your-username"
+      "name": "Stewie23",
+      "url": "https://github.com/Stewie23/foundry_ai_api"
     }
   ],
   "esmodules": ["main.js"],
