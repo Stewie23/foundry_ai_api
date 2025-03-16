@@ -1,15 +1,16 @@
 {
-  "id": "foundry_ai_api",
-  "title": "Stable Diffusion IP Listener",
+  "id": "sd-ip-announcer",
+  "title": "Stable Diffusion IP Announcer",
   "description": "Allows a locally running Stable Diffusion instance to send its IP to Foundry VTT.",
   "version": "1.0.0",
   "authors": [
     {
-      "name": "Stewie23",
-      "url": "https://github.com/Stewie23/foundry_ai_api"
+      "name": "Your Name",
+      "url": "https://github.com/your-username"
     }
   ],
   "esmodules": ["main.js"],
   "scripts": ["scripts/api.js"],
   "minimumCoreVersion": "10",
   "compatibleCoreVersion": "11"
+}
